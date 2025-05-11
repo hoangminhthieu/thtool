@@ -250,13 +250,7 @@ import requests
 chon = str(input('\x1b[0;31m nhập số : '))
 if chon == '1' :    
 	#ttc fb
-     exec(requests.get('https://run.mocky.io/v3/96f91945-84b6-4d52-8c98-25370cedebd3').text)
-if chon == '4' :         
-    #giải phóng 
-     exec(requests.get('https://run.mocky.io/v3/9b878955-56bb-42de-870c-df64b349c07d').text)
-if chon == '5' :     
-     #buff tt
-     exec(requests.get(' https://run.mocky.io/v3/afd11e0a-6057-432c-9ac3-8e767f8f55b8').text)
+     exec(requests.get('https://raw.githubusercontent.com/hoangminhthieu/thtool/refs/heads/main/toolttcfb.py').text)     
 exit()
 
 	
