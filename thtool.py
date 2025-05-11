@@ -255,7 +255,6 @@ print('\x1b[0;31m╔════════════════════
 print('\x1b[0;31m║\x1b[1;33m       TOOL NGHỊCH         \x1b[0;31m║')
 print('\x1b[0;31m╚═══════════════════════════╝')
 print('\x1b[38;5;226m[3] \x1b[38;5;46mTOOL \x1b[38;5;51mFAKE CCCD \x1b[1;33m(\x1b[;1;30mBảo Trì\x1b[1;33m)')
-print('\x1b[38;5;226m[4] \x1b[38;5;46mTOOL \x1b[38;5;51mVN GIẢI PHÓNG ')
 print('\x1b[38;5;226m[5] \x1b[38;5;46mTOOL \x1b[38;5;51mBUFF FOLLOW TIKTOK')
 print('\x1b[38;5;46m-----------------------------------------------------------------')
 import requests
