@@ -46,7 +46,7 @@ trang = "\033[1;39m"
 end = '\033[0m'
 def banner():
     os.system("cls" if os.name == "nt" else "clear")
-    banner = f"""
+    banner = f
 
 
     for X in banner:
