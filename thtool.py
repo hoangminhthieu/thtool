@@ -12,7 +12,6 @@ from time import sleep
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
-
 # Kiểm tra và cài đặt thư viện cần thiết
 try:
     from faker import Faker
