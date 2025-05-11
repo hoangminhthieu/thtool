@@ -59,7 +59,7 @@ def banner():
 \033[1;97m[\033[1;31m</>\033[1;97m]\033[1;97m Group Zalo\033[1;35m: https://zalo.me/g/ahnoav496
 \033[1;97m[\033[1;31m</>\033[1;97m]\033[1;97m Facebook\033[1;31m : \033[1;33mHoàng Minh Thiệu 
 \033[97m════════════════════════════════════════════════
-"""
+""" 
     for X in banner:
         sys.stdout.write(X)
         sys.stdout.flush()
